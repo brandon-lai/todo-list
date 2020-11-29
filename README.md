@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Todo List
+A todo list web app that allows for adding and deleting items from the list!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
